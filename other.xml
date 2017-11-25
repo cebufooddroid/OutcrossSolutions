@@ -1,9 +1,0 @@
-<application>
-  <component name="CvsApplicationLevelConfiguration">
-    <option name="PATH_TO_PASSWORD_FILE" value="C:\Users\Sure\.cvspass" />
-    <option name="ENCODING" value="Big5" />
-    <option name="USE_GZIP" value="true" />
-    <option name="DO_OUTPUT" value="true" />
-    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="true" />
-  </component>
-</application>

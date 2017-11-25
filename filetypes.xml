@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="vsix" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
